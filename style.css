@@ -10,3 +10,16 @@
     background: #eceaff;
     color: #525252;
 }
+
+nav {
+    background: #1a1a1a;
+    width: 100%;
+    padding: 10px 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative
+
+}
+
+ 
