@@ -78,3 +78,11 @@ nav ul li a {
 .user-info img {
     margin-right: 15px;
 }
+
+.sub-menu hr {
+    border: 0;
+    height: 1px;
+    width: 100%;
+    background: #ccc;
+    margin: 15px 0 10px;
+}
